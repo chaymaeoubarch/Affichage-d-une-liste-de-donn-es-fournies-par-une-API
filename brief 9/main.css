@@ -1,0 +1,50 @@
+.container form{
+    width:40%;
+}
+.jumbotron {
+    margin-top: 60px;
+    height: 50%;
+}
+.jumbotron h1{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-size: 30px; 
+    color: white;
+}
+.jumbotron p{
+    color: #FCAA0C;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+div #youtube{
+    color: rgba(158, 145, 145, 0.842);
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-size: 25px;
+}
+.container .row{
+    margin-top: 8%;
+}
+#img-text1, #img-text2, #img-text3{
+    color: #FCAA0C;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+#res{
+    color: red;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-size: 20px;
+}
+footer{
+    margin-top: 4%;
+ 
+}
+footer p{
+    color: rgba(255, 255, 255, 0.39);
+    font-size: 12px;
+}
